@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Descargas\waCubos\waCubos\waCubos\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2024-01-29T16:26:11.0988769Z;True|2024-01-08T09:56:16.3749343-06:00;True|2023-12-07T19:19:33.2735682-06:00;True|2023-12-07T17:39:51.2019368-06:00;True|2023-12-07T17:16:51.6229119-06:00;True|2023-12-07T17:16:21.1235623-06:00;True|2023-11-16T19:03:51.6086720-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>04/20/2018 19:59:22</publishTime>
+    </File>
+    <File Include="Account/ChangePassword.aspx">
+      <publishTime>04/20/2018 15:41:56</publishTime>
+    </File>
+    <File Include="Account/ChangePasswordSuccess.aspx">
+      <publishTime>04/20/2018 15:41:56</publishTime>
+    </File>
+    <File Include="Account/Login.aspx">
+      <publishTime>04/20/2018 15:41:56</publishTime>
+    </File>
+    <File Include="Account/Register.aspx">
+      <publishTime>04/20/2018 15:41:56</publishTime>
+    </File>
+    <File Include="Account/Web.config">
+      <publishTime>04/20/2018 15:41:56</publishTime>
+    </File>
+    <File Include="bin/DataBaseConnector.dll">
+      <publishTime>03/31/2014 11:06:28</publishTime>
+    </File>
+    <File Include="bin/DataBaseConnector.pdb">
+      <publishTime>03/31/2014 11:06:28</publishTime>
+    </File>
+    <File Include="bin/EPPlus.dll">
+      <publishTime>12/05/2023 08:55:10</publishTime>
+    </File>
+    <File Include="bin/EPPlus.Interfaces.dll">
+      <publishTime>11/21/2022 06:51:04</publishTime>
+    </File>
+    <File Include="bin/EPPlus.System.Drawing.dll">
+      <publishTime>11/21/2022 06:51:06</publishTime>
+    </File>
+    <File Include="bin/FluentScheduler.dll">
+      <publishTime>09/20/2020 13:42:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IO.RecyclableMemoryStream.dll">
+      <publishTime>03/10/2021 17:48:48</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/08/2023 01:09:56</publishTime>
+    </File>
+    <File Include="bin/System.ComponentModel.Annotations.dll">
+      <publishTime>05/15/2018 08:29:36</publishTime>
+    </File>
+    <File Include="bin/waCubos.dll">
+      <publishTime>01/29/2024 10:25:55</publishTime>
+    </File>
+    <File Include="bin/waCubos.pdb">
+      <publishTime>01/29/2024 10:25:55</publishTime>
+    </File>
+    <File Include="CostoP.aspx">
+      <publishTime>07/13/2021 17:10:08</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>01/29/2024 10:11:04</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/20/2018 15:41:56</publishTime>
+    </File>
+    <File Include="grid.aspx">
+      <publishTime>04/20/2018 19:19:44</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>04/20/2018 19:05:23</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>04/20/2018 16:37:04</publishTime>
+    </File>
+    <File Include="Scripts/1.9.0.jquery.min.js">
+      <publishTime>04/20/2018 16:25:09</publishTime>
+    </File>
+    <File Include="Scripts/1.9.1.jquery-ui.min.js">
+      <publishTime>04/20/2018 16:25:09</publishTime>
+    </File>
+    <File Include="Scripts/gridviewScroll.min.js">
+      <publishTime>04/20/2018 16:25:09</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>04/20/2018 16:25:13</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>04/20/2018 16:25:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>04/20/2018 16:25:12</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.9.2.custom.min.js">
+      <publishTime>04/20/2018 16:25:13</publishTime>
+    </File>
+    <File Include="Scripts/jquery.ui.touch-punch.min.js">
+      <publishTime>04/20/2018 16:25:09</publishTime>
+    </File>
+    <File Include="Scripts/ScrollTable.js">
+      <publishTime>04/20/2018 16:25:13</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>07/13/2021 17:05:06</publishTime>
+    </File>
+    <File Include="Styles/Site.css">
+      <publishTime>01/25/2024 16:08:00</publishTime>
+    </File>
+    <File Include="Styles/Tabla.css">
+      <publishTime>04/20/2018 16:25:25</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>01/29/2024 10:26:11</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

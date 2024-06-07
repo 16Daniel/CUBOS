@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\waCubos" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Perfil1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/waCubos.dll" publishTime="07/22/2021 14:22:31" />
+    <file relUrl="Global.asax" publishTime="04/20/2018 15:41:56" />
+    <file relUrl="Site.Master" publishTime="07/13/2021 17:05:06" />
+    <file relUrl="Styles/Site.css" publishTime="08/07/2020 14:08:00" />
+    <file relUrl="Scripts/ScrollTable.js" publishTime="04/20/2018 16:25:13" />
+    <file relUrl="About.aspx" publishTime="04/20/2018 19:59:22" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="04/20/2018 16:25:11" />
+    <file relUrl="Scripts/1.9.1.jquery-ui.min.js" publishTime="04/20/2018 16:25:09" />
+    <file relUrl="bin/DataBaseConnector.dll" publishTime="03/31/2014 11:06:28" />
+    <file relUrl="index.html" publishTime="04/20/2018 19:05:23" />
+    <file relUrl="Account/Web.config" publishTime="04/20/2018 15:41:56" />
+    <file relUrl="Account/Register.aspx" publishTime="04/20/2018 15:41:56" />
+    <file relUrl="bin/DataBaseConnector.pdb" publishTime="03/31/2014 11:06:28" />
+    <file relUrl="Account/Login.aspx" publishTime="04/20/2018 15:41:56" />
+    <file relUrl="Styles/Tabla.css" publishTime="04/20/2018 16:25:25" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="04/20/2018 16:25:12" />
+    <file relUrl="Scripts/1.9.0.jquery.min.js" publishTime="04/20/2018 16:25:09" />
+    <file relUrl="Scripts/gridviewScroll.min.js" publishTime="04/20/2018 16:25:09" />
+    <file relUrl="Default.aspx" publishTime="08/07/2020 15:52:07" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="04/20/2018 15:41:56" />
+    <file relUrl="Scripts/jquery-ui-1.9.2.custom.min.js" publishTime="04/20/2018 16:25:13" />
+    <file relUrl="Scripts/jquery.ui.touch-punch.min.js" publishTime="04/20/2018 16:25:09" />
+    <file relUrl="CostoP.aspx" publishTime="07/13/2021 17:10:08" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="04/20/2018 15:41:56" />
+    <file relUrl="login.aspx" publishTime="04/20/2018 16:37:04" />
+    <file relUrl="web.config" publishTime="08/07/2020 15:53:01" />
+    <file relUrl="grid.aspx" publishTime="04/20/2018 19:19:44" />
+    <file relUrl="bin/waCubos.pdb" publishTime="07/22/2021 14:22:31" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="04/20/2018 16:25:13" />
+  </publishProfile>
+</publishData>

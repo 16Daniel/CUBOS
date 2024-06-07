@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\CTL\Documents\Visual Studio 2010\Projects\waCubos\waCubos\Default.aspx</string>
+      <string>C:\Users\CTL\Documents\Visual Studio 2010\Projects\waCubos\waCubos\Default.aspx.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\CTL\Documents\Visual Studio 2010\Projects\waCubos\waCubos\Site.Master</string>
+      <string>C:\Users\CTL\Documents\Visual Studio 2010\Projects\waCubos\waCubos\Site.Master.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\CTL\Documents\Visual Studio 2010\Projects\waCubos\waCubos\login.aspx</string>
+      <string>C:\Users\CTL\Documents\Visual Studio 2010\Projects\waCubos\waCubos\login.aspx.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\CTL\Documents\Visual Studio 2010\Projects\waCubos\waCubos\About.aspx</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\CTL\Documents\Visual Studio 2010\Projects\waCubos\waCubos\CostoP.aspx</string>
+      <string>C:\Users\CTL\Documents\Visual Studio 2010\Projects\waCubos\waCubos\CostoP.aspx.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\CTL\Documents\Visual Studio 2010\Projects\waCubos\waCubos\Styles\Tabla.css</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\CTL\Documents\Visual Studio 2010\Projects\waCubos\waCubos\Styles\Site.css</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\CTL\Documents\Visual Studio 2010\Projects\waCubos\waCubos\bin.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\CTL\Documents\Visual Studio 2010\Projects\waCubos\waCubos\grid.aspx</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

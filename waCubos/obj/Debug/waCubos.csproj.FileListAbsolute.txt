@@ -1,0 +1,51 @@
+c:\users\ctl\documents\visual studio 2010\Projects\waCubos\waCubos\bin\waCubos.dll
+c:\users\ctl\documents\visual studio 2010\Projects\waCubos\waCubos\bin\waCubos.pdb
+c:\users\ctl\documents\visual studio 2010\Projects\waCubos\waCubos\obj\Debug\waCubos.dll
+c:\users\ctl\documents\visual studio 2010\Projects\waCubos\waCubos\obj\Debug\waCubos.pdb
+c:\users\ctl\documents\visual studio 2010\Projects\waCubos\waCubos\obj\Debug\waCubos.csprojResolveAssemblyReference.cache
+c:\users\ctl\documents\visual studio 2010\Projects\waCubos\waCubos\bin\DataBaseConnector.pdb
+c:\users\ctl\documents\visual studio 2010\Projects\waCubos\waCubos\obj\Debug\waCubos.Properties.Resources.resources
+c:\users\ctl\documents\visual studio 2010\Projects\waCubos\waCubos\obj\Debug\waCubos.csproj.GenerateResource.Cache
+C:\Users\CTL-PC\Documents\Visual Studio 2010\VS2010\waCubos\waCubos\bin\waCubos.dll.config
+C:\Users\CTL-PC\Documents\Visual Studio 2010\VS2010\waCubos\waCubos\bin\waCubos.dll
+C:\Users\CTL-PC\Documents\Visual Studio 2010\VS2010\waCubos\waCubos\bin\waCubos.pdb
+C:\Users\CTL-PC\Documents\Visual Studio 2010\VS2010\waCubos\waCubos\bin\DataBaseConnector.pdb
+C:\Users\CTL-PC\Documents\Visual Studio 2010\VS2010\waCubos\waCubos\obj\Debug\waCubos.csproj.AssemblyReference.cache
+C:\Users\CTL-PC\Documents\Visual Studio 2010\VS2010\waCubos\waCubos\obj\Debug\waCubos.Properties.Resources.resources
+C:\Users\CTL-PC\Documents\Visual Studio 2010\VS2010\waCubos\waCubos\obj\Debug\waCubos.csproj.GenerateResource.cache
+C:\Users\CTL-PC\Documents\Visual Studio 2010\VS2010\waCubos\waCubos\obj\Debug\waCubos.csproj.CoreCompileInputs.cache
+C:\Users\CTL-PC\Documents\Visual Studio 2010\VS2010\waCubos\waCubos\obj\Debug\waCubos.csproj.CopyComplete
+C:\Users\CTL-PC\Documents\Visual Studio 2010\VS2010\waCubos\waCubos\obj\Debug\waCubos.dll
+C:\Users\CTL-PC\Documents\Visual Studio 2010\VS2010\waCubos\waCubos\obj\Debug\waCubos.pdb
+C:\Users\devel\Downloads\waCubos\waCubos\waCubos\bin\waCubos.dll.config
+C:\Users\devel\Downloads\waCubos\waCubos\waCubos\bin\waCubos.dll
+C:\Users\devel\Downloads\waCubos\waCubos\waCubos\bin\waCubos.pdb
+C:\Users\devel\Downloads\waCubos\waCubos\waCubos\bin\DataBaseConnector.pdb
+C:\Users\devel\Downloads\waCubos\waCubos\waCubos\obj\Debug\waCubos.csproj.AssemblyReference.cache
+C:\Users\devel\Downloads\waCubos\waCubos\waCubos\obj\Debug\waCubos.Properties.Resources.resources
+C:\Users\devel\Downloads\waCubos\waCubos\waCubos\obj\Debug\waCubos.csproj.GenerateResource.cache
+C:\Users\devel\Downloads\waCubos\waCubos\waCubos\obj\Debug\waCubos.csproj.CoreCompileInputs.cache
+C:\Users\devel\Downloads\waCubos\waCubos\waCubos\obj\Debug\waCubos.csproj.CopyComplete
+C:\Users\devel\Downloads\waCubos\waCubos\waCubos\obj\Debug\waCubos.dll
+C:\Users\devel\Downloads\waCubos\waCubos\waCubos\obj\Debug\waCubos.pdb
+D:\Descargas\waCubos\waCubos\waCubos\bin\waCubos.dll.config
+D:\Descargas\waCubos\waCubos\waCubos\bin\waCubos.dll
+D:\Descargas\waCubos\waCubos\waCubos\bin\waCubos.pdb
+D:\Descargas\waCubos\waCubos\waCubos\bin\EPPlus.dll
+D:\Descargas\waCubos\waCubos\waCubos\bin\EPPlus.Interfaces.dll
+D:\Descargas\waCubos\waCubos\waCubos\bin\EPPlus.System.Drawing.dll
+D:\Descargas\waCubos\waCubos\waCubos\bin\FluentScheduler.dll
+D:\Descargas\waCubos\waCubos\waCubos\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Descargas\waCubos\waCubos\waCubos\bin\Newtonsoft.Json.dll
+D:\Descargas\waCubos\waCubos\waCubos\bin\System.ComponentModel.Annotations.dll
+D:\Descargas\waCubos\waCubos\waCubos\bin\EPPlus.xml
+D:\Descargas\waCubos\waCubos\waCubos\bin\FluentScheduler.xml
+D:\Descargas\waCubos\waCubos\waCubos\bin\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Descargas\waCubos\waCubos\waCubos\bin\Newtonsoft.Json.xml
+D:\Descargas\waCubos\waCubos\waCubos\obj\Debug\waCubos.csproj.AssemblyReference.cache
+D:\Descargas\waCubos\waCubos\waCubos\obj\Debug\waCubos.Properties.Resources.resources
+D:\Descargas\waCubos\waCubos\waCubos\obj\Debug\waCubos.csproj.GenerateResource.cache
+D:\Descargas\waCubos\waCubos\waCubos\obj\Debug\waCubos.csproj.CoreCompileInputs.cache
+D:\Descargas\waCubos\waCubos\waCubos\obj\Debug\waCubos.csproj.CopyComplete
+D:\Descargas\waCubos\waCubos\waCubos\obj\Debug\waCubos.dll
+D:\Descargas\waCubos\waCubos\waCubos\obj\Debug\waCubos.pdb

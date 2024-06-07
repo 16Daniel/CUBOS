@@ -1,0 +1,94 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="waCubos.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+    <script runat="server">
+        void Page_Load(object sender, System.EventArgs e)
+        {
+            Response.Buffer = true;
+            Response.ExpiresAbsolute = DateTime.Now.AddDays(-1);
+            Response.Expires = -1;
+            Response.CacheControl = "no-cache";
+
+            if (Request.QueryString.HasKeys())
+            {
+                try
+                {
+                    if (Request.QueryString["l"].ToString() == "s")
+                    {
+                        Session.Remove("ctrluser");
+                        Session.Remove("username");
+                    }
+                }
+                catch
+                {
+
+                }
+            }
+            
+            if (Session["ctrluser"] != null)
+            {
+                string[] s = (string[])Session["username"];
+                Label1.Text = "Bienvenido " + s[1] + " <a href=\"login.aspx?l=s\" style=\"color:black\">(Salir)</a>";
+                if (!this.MainContent.Page.Request.RawUrl.Contains("login.aspx"))
+                {
+                    MainContent.Visible = true;
+                }
+                else
+                {
+                    MainContent.Visible = false;
+                }
+            }
+            else
+            {
+                Label1.Text = "[ <a href=\"login.aspx\" style=\"color:black\">Login In</a> ]";
+                if (!this.MainContent.Page.Request.RawUrl.Contains("login.aspx"))
+                    Response.Redirect("login.aspx");
+            }
+        }
+    </script>
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" />
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    
+
+
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="Form1" runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                   OPERA / CUBOS
+                </h1>
+            </div>
+            <div class="loginDisplay">
+                <asp:Label ID="Label1" runat="server" Text="" ForeColor="Black"></asp:Label>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Sabana"/>
+                        <%--<asp:MenuItem NavigateUrl="~/grid.aspx" Text="Presupuesto"/>--%>
+                        <asp:MenuItem NavigateUrl="~/CostoP.aspx" Text="Costo Ponderado"/>
+                        <%--<asp:MenuItem NavigateUrl="~/About.aspx" Text="About"/>--%>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>
